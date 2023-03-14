@@ -1,0 +1,3 @@
+echo building...
+sleep 5
+echo finished building

@@ -1,0 +1,3 @@
+*.pyc
+jenkins_configuration/
+__pycache__
